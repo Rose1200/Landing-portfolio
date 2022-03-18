@@ -1,0 +1,18 @@
+h1 {
+    color: chartreuse;
+    text-align: center;
+    font-size: large;
+
+}
+img {
+
+    width: 200px;
+    border-radius: 50px;
+}
+a{display: block;}
+h3{text-align: center;}
+.about-me{
+    display:flex;
+    justify-content: space-around;
+    background-color: deeppink;
+}
