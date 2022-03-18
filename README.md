@@ -6,8 +6,8 @@ hello , this is my portfolio landing page
 
 # Authors information
 Rose Kamau
-software developer
-studies at Moringa school
+<p>software developer</p>
+<p>studies at Moringa school</p>
 
 # technologies used
 <li>HTML</li>
